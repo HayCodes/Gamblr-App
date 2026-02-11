@@ -35,20 +35,20 @@ lib/
 ### 2. Create the project
 
 ```bash
-flutter create gamblr
+flutter create gamblr || fvm flutter create gamblr (if you install flutter using Flutter Version Management
 cd gamblr
 ```
 
 ### 3. Install dependencies
 
 ```bash
-flutter pub get
+flutter pub get || fvm flutter pub get
 ```
 
 ### 4. Run the app
 
 ```bash
-flutter run
+flutter run || fvm flutter run
 ```
 
 ## 📱 Screen Flow
