@@ -56,6 +56,12 @@ flutter pub get || fvm flutter pub get
 flutter run || fvm flutter run
 ```
 
+## 🚀 App Preview
+https://github.com/user-attachments/assets/786a46ad-4acc-452e-ae28-11032539edd9
+
+
+
+
 ## 📱 Screen Flow
 
 ```
