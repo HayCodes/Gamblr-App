@@ -6,8 +6,13 @@ NB: This is a demo project and functions are going seamlessly without any issues
 
 ---
 
-## 📁 Project Structure
+## 📁 Project Structure (Main part that I altered during the period of working on this)
 ```
+assets/
+├── images/
+    ├── gamblr_icon.png
+    ├── gamblr_mini.png
+│   └── verify_icon.png
 lib/
 ├── main.dart                        ← App entry point
 ├── theme/
